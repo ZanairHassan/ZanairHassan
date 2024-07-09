@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dotnet backend development
 - 🌱 I’m currently learning different javascript libraries
 - 💞️ I’m looking to collaborate on all kind of dotnet projects
-- 📫 you can reach me through whatsapp #+923441229867 or gmail: zanairghumman@gmail.com
+- 📫 you can reach me through whatsapp +923441229867 or gmail: zanairghumman@gmail.com
 - 😄 Pronouns: bugger
 - My background as a .NET developer has equipped me with extensive experience in building and maintaining web applications using C#, ASP.NET Core, and related technologies. This technical proficiency is complemented by a solid foundation in software development principles gained through my academic studies in IT and my professional experiences.
 
